@@ -57,6 +57,15 @@ def generate_cover_letter_interface(cv_file, job_description):
     except Exception as e:
         return f"An error occurred: {str(e)}"
 
+css_styles = """
+    .gradio-container {
+        background-color: #2f99be; 
+        border-radius: 30px;         
+        border: 5px solid #0f1b1c; 
+    }
+
+"""
+
 # Gradio Interface
 interface = gr.Interface(
     fn=generate_cover_letter_interface,
@@ -66,7 +75,9 @@ interface = gr.Interface(
     ],
     outputs=gr.Textbox(label="Generated Cover Letter", lines=20),
     title="AI-Powered Cover Letter Generator",
+    css=css_styles,
     description="Upload your CV (as a text file) and enter the job description to generate a personalized cover letter."
+    
 )
 
 # Launch the Gradio app
