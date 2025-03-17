@@ -1,0 +1,78 @@
+
+John Smith
+123 Main Street
+Berlin, Germany, 10115
+john.smith@example.com
++49 123 456 7890
+linkedin.com/in/johnsmith
+github.com/johnsmithdev
+
+---
+
+Professional Summary
+A highly motivated software engineer with 5 years of experience in Java backend development, specializing in Spring Boot, REST APIs, and microservices. Proven expertise in designing scalable solutions, ensuring high code quality, and adhering to best practices. Eager to leverage skills in cloud technologies like AWS to drive business success.
+
+---
+
+Technical Skills
+- Programming Languages: Java, Python, SQL
+- Frameworks: Spring Boot, Hibernate, JUnit
+- Tools: IntelliJ IDEA, Git, Docker, Maven, Jenkins
+- Databases: MySQL, PostgreSQL, MongoDB
+- Cloud Platforms: AWS (EC2, S3, RDS)
+- Other Skills: REST API development, Microservices architecture, Agile methodology
+
+---
+
+Professional Experience
+
+Senior Software Engineer
+XYZ Solutions, Berlin, Germany
+January 2020 – Present
+- Designed and implemented RESTful APIs for key business applications, reducing response times by 20%.
+- Led the development of microservices architecture for a payment platform, improving scalability and reliability.
+- Improved code quality by 30% through peer code reviews and automated testing.
+- Integrated AWS services such as EC2 and S3 to enhance application performance and security.
+
+Software Engineer
+ABC Technologies, Munich, Germany
+June 2018 – December 2019
+- Developed backend systems using Java and Spring Boot for e-commerce platforms.
+- Worked on optimizing database queries, leading to a 15% performance boost.
+- Collaborated with cross-functional teams to ensure on-time project delivery.
+
+---
+
+Education
+
+Master of Science in Computer Science
+Technical University of Munich, Germany
+Graduated: 2018
+
+Bachelor of Science in Software Engineering
+University of Stuttgart, Germany
+Graduated: 2016
+
+---
+
+Certifications
+- AWS Certified Solutions Architect – Associate
+- Oracle Certified Professional: Java SE 11 Developer
+
+---
+
+Projects
+
+MyPay Payment Platform
+- Developed a secure payment platform with features like QR code scanning, payment history, and push notifications.
+- Integrated encrypted storage for sensitive card details and implemented SMS verification.
+
+Inventory Management System
+- Created a web-based inventory management system for small businesses using Spring Boot and React.
+- Improved inventory tracking efficiency by 25%.
+
+---
+
+Languages
+- English: Fluent
+- German: Intermediate
