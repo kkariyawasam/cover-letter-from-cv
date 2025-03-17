@@ -46,3 +46,6 @@ Before running the project, ensure you have the following:
    ```
 
 4. **UI Preview**
+
+   <img width="920" alt="image" src="https://github.com/user-attachments/assets/f1e0841e-4ecd-4e56-a8b1-80bcbc27ac9a" />
+
