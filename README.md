@@ -47,5 +47,6 @@ Before running the project, ensure you have the following:
 
 4. **UI Preview**
 
-   <img width="920" alt="image" src="https://github.com/user-attachments/assets/f1e0841e-4ecd-4e56-a8b1-80bcbc27ac9a" />
+  <img width="917" alt="image" src="https://github.com/user-attachments/assets/4d2be979-041f-49f7-abf6-d4519e82b47f" />
+
 
